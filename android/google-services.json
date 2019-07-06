@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1044973323065",
+    "firebase_url": "https://bubble-twist.firebaseio.com",
+    "project_id": "bubble-twist",
+    "storage_bucket": "bubble-twist.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044973323065:android:264888cd8d968ea7",
+        "android_client_info": {
+          "package_name": "net.pinkfedora.bubble"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044973323065-euor7jh90aa51e8so41cmdlju59112ro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ7UzSmst1kmGLiJOMoDG7LYs3GW3TOG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044973323065-euor7jh90aa51e8so41cmdlju59112ro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
